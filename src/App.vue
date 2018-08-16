@@ -18,7 +18,8 @@ export default {
 </script>
 
 
-<style lang="scss">
+<style lang="scss"> 
+
 
 body{
   font-size: 0.12rem
