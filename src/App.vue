@@ -21,6 +21,7 @@ export default {
 <style lang="scss"> 
 
 
+
 body{
   font-size: 0.12rem
 }
