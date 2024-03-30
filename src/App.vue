@@ -12,7 +12,6 @@ import FociNav from './common/FociNav.vue'
 export default {
     components:{
         FociNav
-        // FociHeader
     }
 }
 </script>
