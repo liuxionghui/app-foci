@@ -1,6 +1,5 @@
 <template>
-  <div id="app">
-    <!-- <foci-header></foci-header> -->
+  <div id="app test">
     <router-view/>
     <foci-nav></foci-nav>
   </div>
@@ -8,7 +7,6 @@
 
 <script>
 import FociNav from './common/FociNav.vue'
-// import FociHeader from './common/FociHeader.vue'
 export default {
     components:{
         FociNav
