@@ -1,5 +1,5 @@
 <template>
-  <div id="app test">
+  <div id="app test test1 test2 test3">
     <router-view/>
     <foci-nav></foci-nav>
   </div>
